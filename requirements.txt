@@ -1,0 +1,15 @@
+
+datasets
+pandas
+
+# Web & Desktop Framework
+flask>=3.0.0
+pywebview>=4.4.1
+
+# Machine Learning Guardrail (ThreatGPT Brain)
+transformers>=4.30.0
+torch>=2.0.0
+
+# API & Environment Configuration
+requests>=2.31.0
+python-dotenv>=1.0.0
